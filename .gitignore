@@ -28,3 +28,7 @@ debug.log
 # Ignore package manager directories
 node_modules/
 bower_components/
+
+
+# ignore ".iml" files
+*.iml
