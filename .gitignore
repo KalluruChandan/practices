@@ -32,3 +32,6 @@ bower_components/
 
 # ignore ".iml" files
 *.iml
+
+
+docs/
